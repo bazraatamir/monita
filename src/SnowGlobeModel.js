@@ -187,8 +187,8 @@ function Texts() {
           position={[0, 12.45, 0]}
           fontSize='0.35'
           lineHeight={0.85}>
-          Чамдаа маш их хайртай шүү. {"\n\n"} Хайр нь үргэлж хажууд нь байх
-          болохоор хоёулаа бүгдийг даваад гарнаа.
+          Since I will always be by your side {"\n\n"} don’t worry about
+          anything. Together, we will create a beautiful life.
         </Text>
         <Text
           maxWidth={2.5}
@@ -196,7 +196,7 @@ function Texts() {
           position={[0, 11.2, 0]}
           fillOpacity={0.6}
           fontSize='0.1'>
-          Миний хайр хамгийн мундаг нь
+          I love you with all my heart.
         </Text>
         <Text
           maxWidth={1.5}
