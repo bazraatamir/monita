@@ -172,7 +172,7 @@ function Texts() {
         size={1}
         font='/Inter_Bold.json'
         position={[-4, 3.3, 10]}>
-        Мөнхжинд
+        Одгэрэл
         <meshPhysicalMaterial
           metalness={0.2}
           roughness={0.2}
@@ -187,8 +187,8 @@ function Texts() {
           position={[0, 12.45, 0]}
           fontSize='0.35'
           lineHeight={0.85}>
-          You are really a wonderful and beautiful girl. {"\n\n"}I told you, you
-          have such a lovely smile, so always smile and stay happy
+          Чамдаа маш их хайртай шүү. {"\n\n"} Хайр нь үргэлж хажууд нь байх
+          болохоор хоёулаа бүгдийг даваад гарнаа.
         </Text>
         <Text
           maxWidth={2.5}
@@ -196,15 +196,14 @@ function Texts() {
           position={[0, 11.2, 0]}
           fillOpacity={0.6}
           fontSize='0.1'>
-          Thank you support in 2024. Great things are coming in 2025. Please
-          stay tunned.
+          Миний хайр хамгийн мундаг нь
         </Text>
         <Text
           maxWidth={1.5}
           textAlign='center'
           position={[0, 10.8, 0]}
           fontSize='0.08'>
-          From Monita
+          From Odgerel with love
         </Text>
       </Billboard>
     </>
